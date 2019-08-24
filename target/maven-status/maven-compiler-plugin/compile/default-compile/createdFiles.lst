@@ -1,0 +1,6 @@
+autoconfigure\core\Boss.class
+autoconfigure\annotation\EnableHello.class
+autoconfigure\core\Person.class
+autoconfigure\HelloAutoConfiguration.class
+autoconfigure\core\HelloProperties$Person.class
+autoconfigure\core\HelloProperties.class
